@@ -1,4 +1,4 @@
-# first_vue
+# notepad_vue3
 
 ## Project setup
 ```
